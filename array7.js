@@ -68,8 +68,6 @@ class PersonE {
 let amolD  = new PersonE()
 console.log(amolD)
 
-
-
 amolD.setFirstName("amolD")
 amolD.setlastName("rao")
 amolD.setRollNo(23)
